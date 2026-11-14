@@ -22,7 +22,7 @@ Software Engineer e ingeniero en formación en **Entornos Virtuales y Negocios D
 | [**NX2 Port Studio**](https://github.com/RobiiAragon/NX2-Port-Studio) | Herramientas nativas experimentales de Switch 2 para Apple silicon (exporta a Mac Donkey Kong Bananza y Splatoon Raiders). | C · Metal · ARM64 |
 | [**Free RAM Mac**](https://github.com/RobiiAragon/FreeRAMMac) | App de barra de menú: uso de RAM de un vistazo y purga de memoria con un clic. | Swift 6 · AppKit |
 | [**Yoby / BajaPoke**](https://yoby-five.vercel.app) | SaaS de vacantes y evaluación de candidatos con IA generativa para una cadena de restaurantes. | TypeScript · React · Supabase |
-| **Royale Local ML** | Agente de Machine Learning que juega Clash Royale de forma autónoma en tiempo real. | Python · ML |
+| [**Royale Local**](https://github.com/RobiiAragon/Royale-Local) | Agente de juego local en tiempo real para macOS: captura nativa, visión ONNX en el dispositivo y planeador táctico. | Swift · Node · ONNX |
 | [**VR Expo Perfiles 2025**](https://www.facebook.com/share/p/1KMn5MTGzY/) | Experiencia de Realidad Virtual para Universidad Xochicalco. | Unity · C# |
 | [**Bluetooth on LAN**](https://github.com/RobiiAragon/Bluetooth-receptor-onLAN) | Tu Android como control de Xbox virtual para Windows por red local. | Kotlin · .NET 8 |
 
