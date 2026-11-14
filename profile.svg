@@ -33,7 +33,7 @@ text, tspan { white-space: pre; }
 <text x="492" y="23" fill="#8b949e" font-size="13px" text-anchor="middle">jesus — -zsh — 120×36</text>
 <text x="20" y="66" class="t" style="animation-delay:0.07s"><tspan class="user">jesus@MacBook-Pro</tspan><tspan class="sep"> </tspan><tspan class="path">~</tspan><tspan class="sep"> % </tspan><tspan class="cmd">whoami</tspan></text>
 <text x="20" y="90" class="out t" style="animation-delay:0.34s">Jesús Aragón — Software Engineer | Full-Stack SaaS, AI/ML, Swift &amp; Unity</text>
-<text x="20" y="124" class="t" style="animation-delay:0.61s"><tspan class="user">jesus@MacBook-Pro</tspan><tspan class="sep"> </tspan><tspan class="path">~</tspan><tspan class="sep"> % </tspan><tspan class="cmd">neofetch</tspan></text>
+<text x="20" y="124" class="t" style="animation-delay:0.61s"><tspan class="user">jesus@MacBook-Pro</tspan><tspan class="sep"> </tspan><tspan class="path">~</tspan><tspan class="sep"> % </tspan><tspan class="cmd">fastfetch</tspan></text>
 <text x="28" y="152" fill="#3fb950" class="t logo" style="animation-delay:0.88s">                    &#x27;c.</text>
 <text x="28" y="171" fill="#3fb950" class="t logo" style="animation-delay:0.95s">                 ,xNMM.</text>
 <text x="28" y="190" fill="#3fb950" class="t logo" style="animation-delay:1.02s">               .OMMMMo</text>
