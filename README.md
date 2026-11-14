@@ -20,8 +20,8 @@ Software Engineer e ingeniero en formación en **Entornos Virtuales y Negocios D
 | [**NX Port Studio**](https://github.com/RobiiAragon/NX-Port-Studio) | Workspace de macOS que convierte tus juegos de Switch en apps nativas de Mac / iPhone, con firma Xcode, Joy-Con y juego LAN/LDN. | Python · C · Swift · Xcode |
 | **Forma** | App de iOS de fotogrametría para capturar objetos reales como modelos 3D. | Swift · iOS SDK |
 | **Royale Local ML** | Agente de Machine Learning que juega Clash Royale de forma autónoma en tiempo real. | Python · ML |
-| **Yoby / BajaPoke** | SaaS de vacantes y evaluación de candidatos con IA generativa para una cadena de restaurantes. | TypeScript · React · Supabase |
-| **VR Expo Perfiles 2025** | Experiencia de Realidad Virtual para Universidad Xochicalco. | Unity · C# |
+| [**Yoby / BajaPoke**](https://yoby-five.vercel.app) | SaaS de vacantes y evaluación de candidatos con IA generativa para una cadena de restaurantes. | TypeScript · React · Supabase |
+| [**VR Expo Perfiles 2025**](https://www.facebook.com/share/p/1KMn5MTGzY/) | Experiencia de Realidad Virtual para Universidad Xochicalco. | Unity · C# |
 
 ### 🛠️ Stack
 
@@ -33,7 +33,7 @@ Software Engineer e ingeniero en formación en **Entornos Virtuales y Negocios D
 
 ### 💼 Experiencia
 
-- **Lead Programmer** — Yoby / BajaPoke · *Freelance SaaS* · 2026 – hoy
-- **Game & VR Developer** — Universidad Xochicalco · *Prácticas profesionales* · 2025 – 2026
+- **Lead Programmer** — [Yoby / BajaPoke](https://yoby-five.vercel.app) · *Freelance SaaS* · 2026 – hoy
+- **Game & VR Developer** — Universidad Xochicalco · *Prácticas profesionales* · 2025 – 2026 · [ver en la Expo](https://www.facebook.com/share/p/1KMn5MTGzY/)
 
 <p align="center"><sub>🇲🇽 Español (nativo) · 🇺🇸 English (B1) · Abierto a colaboraciones y oportunidades</sub></p>
