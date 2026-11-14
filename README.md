@@ -18,7 +18,8 @@ Software Engineer e ingeniero en formación en **Entornos Virtuales y Negocios D
 | Proyecto | Qué es | Stack |
 | :-- | :-- | :-- |
 | [**NX Port Studio**](https://github.com/RobiiAragon/NX-Port-Studio) | Workspace de macOS que convierte tus juegos de Switch en apps nativas de Mac / iPhone, con firma Xcode, Joy-Con y juego LAN/LDN. | Python · C · Swift · Xcode |
-| **Forma** | App de iOS de fotogrametría para capturar objetos reales como modelos 3D. | Swift · iOS SDK |
+| [**Forma**](https://github.com/RobiiAragon/Forma) | Estudio 3D local para iPhone, iPad y Mac: LiDAR, fotogrametría y Gaussian Splatting, todo en el dispositivo. | Swift · Metal · ARKit |
+| [**Free RAM Mac**](https://github.com/RobiiAragon/FreeRAMMac) | App de barra de menús para macOS: uso de RAM a la vista y liberación de memoria descartable en un clic. | Swift · macOS |
 | **Royale Local ML** | Agente de Machine Learning que juega Clash Royale de forma autónoma en tiempo real. | Python · ML |
 | [**Yoby / BajaPoke**](https://yoby-five.vercel.app) | SaaS de vacantes y evaluación de candidatos con IA generativa para una cadena de restaurantes. | TypeScript · React · Supabase |
 | [**VR Expo Perfiles 2025**](https://www.facebook.com/share/p/1KMn5MTGzY/) | Experiencia de Realidad Virtual para Universidad Xochicalco. | Unity · C# |
