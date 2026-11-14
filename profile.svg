@@ -74,7 +74,7 @@ text, tspan { white-space: pre; }
 <rect x="551" y="424" width="26" height="16" fill="#39c5cf" class="t" style="animation-delay:2.30s"/>
 <rect x="577" y="424" width="26" height="16" fill="#e6edf3" class="t" style="animation-delay:2.30s"/>
 <text x="20" y="493" class="t" style="animation-delay:2.65s"><tspan class="user">jesus@MacBook-Pro</tspan><tspan class="sep"> </tspan><tspan class="path">~</tspan><tspan class="sep"> % </tspan><tspan class="cmd">ls ~/projects</tspan></text>
-<text x="20" y="517" class="proj t" style="animation-delay:2.87s">NX-Port-Studio  Forma  Royale-Local-ML  WasteAndStats  Image-to-ASCII  Dinamize</text>
+<text x="20" y="517" class="proj t" style="animation-delay:2.87s">NX-Port-Studio  Forma  Royale-Local-ML  Free-RAM-Mac  Image-to-ASCII  Dinamize</text>
 <text x="20" y="549" class="t" style="animation-delay:3.14s"><tspan class="user">jesus@MacBook-Pro</tspan><tspan class="sep"> </tspan><tspan class="path">~</tspan><tspan class="sep"> % </tspan></text>
 <rect x="232" y="535" width="10" height="18" fill="#3fb950" class="t cursor" style="animation-delay:3.24s"/>
 </svg>
