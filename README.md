@@ -1,30 +1,30 @@
-<a href="https://robiiaragon.github.io/portfolio/">
-  <img alt="Jesús Aragón — terminal de macOS con fastfetch" src="https://raw.githubusercontent.com/RobiiAragon/RobiiAragon/main/profile.svg?v=3">
+<a href="https://robiiaragon.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
+  <img alt="Jesús Aragón — macOS terminal with fastfetch" src="https://raw.githubusercontent.com/RobiiAragon/RobiiAragon/main/profile.svg?v=3">
 </a>
 
 <p align="center">
-  <a href="https://robiiaragon.github.io/portfolio/"><img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-robiiaragon.github.io-0fa39a?style=flat-square&logo=apple&logoColor=white"></a>
-  <a href="mailto:robiiaragon@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-robiiaragon%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://x.com/robiiaragon"><img alt="X" src="https://img.shields.io/badge/X-@robiiaragon-000000?style=flat-square&logo=x&logoColor=white"></a>
-  <img alt="Ubicación" src="https://img.shields.io/badge/Tijuana,_BC-México-2563eb?style=flat-square&logo=googlemaps&logoColor=white">
+  <a href="https://robiiaragon.github.io/portfolio/" target="_blank" rel="noopener noreferrer"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-robiiaragon.github.io-0fa39a?style=flat-square&logo=apple&logoColor=white"></a>
+  <a href="mailto:robiiaragon@gmail.com" target="_blank" rel="noopener noreferrer"><img alt="Email" src="https://img.shields.io/badge/Email-robiiaragon%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://x.com/robiiaragon" target="_blank" rel="noopener noreferrer"><img alt="X" src="https://img.shields.io/badge/X-@robiiaragon-000000?style=flat-square&logo=x&logoColor=white"></a>
+  <img alt="Location" src="https://img.shields.io/badge/Tijuana,_BC-Mexico-2563eb?style=flat-square&logo=googlemaps&logoColor=white">
 </p>
 
-### 👋 Sobre mí
+### 👋 About Me
 
-Software Engineer e ingeniero en formación en **Entornos Virtuales y Negocios Digitales** (UTT, 2027). Construyo productos **SaaS full-stack**, flujos de **Machine Learning con LLMs locales**, **apps nativas de iOS en Swift** y experiencias en tiempo real con **Unity / VR**. Mi fuerte es traducir un problema de negocio en software que se usa de verdad.
+Software Engineer and B.Eng. candidate in **Virtual Environments and Digital Business** (UTT, 2027). I build **full-stack SaaS** products, **Machine Learning workflows with local LLMs**, **native iOS apps in Swift**, and real-time experiences with **Unity / VR**. My strength is translating a business problem into software people actually use.
 
-### 🚀 Proyectos destacados
+### 🚀 Featured Projects
 
-| Proyecto | Qué es | Stack |
+| Project | What it is | Stack |
 | :-- | :-- | :-- |
-| [**Forma**](https://github.com/RobiiAragon/Forma) | Estudio de escaneo 3D local para iPhone, iPad y Mac: LiDAR, fotogrametría y Gaussian Splatting, 100% en el dispositivo. | Swift · ARKit · Metal · Core ML |
-| [**NX Port Studio**](https://github.com/RobiiAragon/NX-Port-Studio) | Workspace de macOS que convierte tus juegos de Switch en apps nativas de Mac / iPhone, con firma Xcode, Joy-Con y juego LAN/LDN. | Python · C · Swift · Xcode |
-| [**NX2 Port Studio**](https://github.com/RobiiAragon/NX2-Port-Studio) | Herramientas nativas experimentales de Switch 2 para Apple silicon (exporta a Mac Donkey Kong Bananza y Splatoon Raiders). | C · Metal · ARM64 |
-| [**Free RAM Mac**](https://github.com/RobiiAragon/FreeRAMMac) | App de barra de menú: uso de RAM de un vistazo y purga de memoria con un clic. | Swift 6 · AppKit |
-| [**Yoby / BajaPoke**](https://yoby-five.vercel.app) | SaaS de vacantes y evaluación de candidatos con IA generativa para una cadena de restaurantes. | TypeScript · React · Supabase |
-| [**Royale Local**](https://github.com/RobiiAragon/Royale-Local) | Agente de juego local en tiempo real para macOS: captura nativa, visión ONNX en el dispositivo y planeador táctico. | Swift · Node · ONNX |
-| [**VR Expo Perfiles 2025**](https://www.facebook.com/share/p/1KMn5MTGzY/) | Experiencia de Realidad Virtual para Universidad Xochicalco. | Unity · C# |
-| [**Bluetooth on LAN**](https://github.com/RobiiAragon/Bluetooth-receptor-onLAN) | Tu Android como control de Xbox virtual para Windows por red local. | Kotlin · .NET 8 |
+| <a href="https://github.com/RobiiAragon/Forma" target="_blank" rel="noopener noreferrer"><strong>Forma</strong></a> | Local 3D scanning studio for iPhone, iPad, and Mac: LiDAR, photogrammetry, and Gaussian Splatting, 100% on-device. | Swift · ARKit · Metal · Core ML |
+| <a href="https://github.com/RobiiAragon/NX-Port-Studio" target="_blank" rel="noopener noreferrer"><strong>NX Port Studio</strong></a> | macOS workspace that converts your Switch games into native Mac / iPhone apps, with Xcode signing, Joy-Con support, and LAN/LDN play. | Python · C · Swift · Xcode |
+| <a href="https://github.com/RobiiAragon/NX2-Port-Studio" target="_blank" rel="noopener noreferrer"><strong>NX2 Port Studio</strong></a> | Experimental native Switch 2 tools for Apple silicon (exports Donkey Kong Bananza and Splatoon Raiders to Mac). | C · Metal · ARM64 |
+| <a href="https://github.com/RobiiAragon/FreeRAMMac" target="_blank" rel="noopener noreferrer"><strong>Free RAM Mac</strong></a> | Menu bar app: RAM usage at a glance and one-click memory purge. | Swift 6 · AppKit |
+| <a href="https://yoby-five.vercel.app" target="_blank" rel="noopener noreferrer"><strong>Yoby / BajaPoke</strong></a> | Job board and candidate evaluation SaaS powered by generative AI for a restaurant chain. | TypeScript · React · Supabase |
+| <a href="https://github.com/RobiiAragon/Royale-Local" target="_blank" rel="noopener noreferrer"><strong>Royale Local</strong></a> | Real-time local game agent for macOS: native screen capture, on-device ONNX vision, and tactical planner. | Swift · Node · ONNX |
+| <a href="https://www.facebook.com/share/p/1KMn5MTGzY/" target="_blank" rel="noopener noreferrer"><strong>VR Expo Perfiles 2025</strong></a> | Virtual Reality experience for Universidad Xochicalco. | Unity · C# |
+| <a href="https://github.com/RobiiAragon/Bluetooth-receptor-onLAN" target="_blank" rel="noopener noreferrer"><strong>Bluetooth on LAN</strong></a> | Use your Android device as a virtual Xbox controller for Windows over LAN. | Kotlin · .NET 8 |
 
 ### 🛠️ Stack
 
@@ -32,11 +32,11 @@ Software Engineer e ingeniero en formación en **Entornos Virtuales y Negocios D
   <img alt="Stack" src="https://skillicons.dev/icons?i=ts,react,python,swift,cs,cpp,kotlin,dotnet,unity,laravel,php,supabase,java,mysql,git,linux&perline=8">
 </p>
 
-**Apple:** ARKit · RealityKit · Metal · Core ML &nbsp;·&nbsp; **IA local:** Ollama · BionicGPT · ComfyUI · NVIDIA CUDA &nbsp;·&nbsp; **Certificaciones:** CCNA Essentials · NDG Linux Essentials · C++ Essentials
+**Apple:** ARKit · RealityKit · Metal · Core ML &nbsp;·&nbsp; **Local AI:** Ollama · BionicGPT · ComfyUI · NVIDIA CUDA &nbsp;·&nbsp; **Certifications:** CCNA Essentials · NDG Linux Essentials · C++ Essentials
 
-### 💼 Experiencia
+### 💼 Experience
 
-- **Lead Programmer** — [Yoby / BajaPoke](https://yoby-five.vercel.app) · *Freelance SaaS* · 2026 – hoy
-- **Game & VR Developer** — Universidad Xochicalco · *Prácticas profesionales* · 2025 – 2026 · [ver en la Expo](https://www.facebook.com/share/p/1KMn5MTGzY/)
+- **Lead Programmer** — <a href="https://yoby-five.vercel.app" target="_blank" rel="noopener noreferrer">Yoby / BajaPoke</a> · *Freelance SaaS* · Jul 2026 – Sep 2026
+- **Game & VR Developer** — Universidad Xochicalco · *Internship* · 2025 – 2026 · <a href="https://www.facebook.com/share/p/1KMn5MTGzY/" target="_blank" rel="noopener noreferrer">view at the Expo</a>
 
-<p align="center"><sub>🇲🇽 Español (nativo) · 🇺🇸 English (B1) · Abierto a colaboraciones y oportunidades</sub></p>
+<p align="center"><sub>🇲🇽 Spanish (Native) · 🇺🇸 English (B1) · Open to collaborations and opportunities</sub></p>
