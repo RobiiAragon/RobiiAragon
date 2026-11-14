@@ -59,9 +59,9 @@ text, tspan { white-space: pre; }
 <text x="395" y="247" class="t" style="animation-delay:1.50s"><tspan class="key">Uptime</tspan><tspan class="sep">: </tspan><tspan class="value">2023 → grad. 2027</tspan></text>
 <text x="395" y="266" class="t" style="animation-delay:1.58s"><tspan class="key">Shell</tspan><tspan class="sep">: </tspan><tspan class="value">zsh · Xcode · Unity · VS Code</tspan></text>
 <text x="395" y="285" class="t" style="animation-delay:1.66s"><tspan class="key">Langs</tspan><tspan class="sep">: </tspan><tspan class="value">TypeScript · Python · Swift · C# · C++</tspan></text>
-<text x="395" y="304" class="t" style="animation-delay:1.74s"><tspan class="key">Stack</tspan><tspan class="sep">: </tspan><tspan class="value">React · .NET · iOS SDK · Laravel · Supabase</tspan></text>
+<text x="395" y="304" class="t" style="animation-delay:1.74s"><tspan class="key">Stack</tspan><tspan class="sep">: </tspan><tspan class="value">React · .NET · iOS SDK · Metal · Supabase</tspan></text>
 <text x="395" y="323" class="t" style="animation-delay:1.82s"><tspan class="key">AI/ML</tspan><tspan class="sep">: </tspan><tspan class="value">Ollama · BionicGPT · ComfyUI · CUDA</tspan></text>
-<text x="395" y="342" class="t" style="animation-delay:1.90s"><tspan class="key">XR</tspan><tspan class="sep">: </tspan><tspan class="value">Unity VR · Fotogrametría iOS</tspan></text>
+<text x="395" y="342" class="t" style="animation-delay:1.90s"><tspan class="key">XR</tspan><tspan class="sep">: </tspan><tspan class="value">Unity VR · LiDAR · Gaussian Splatting</tspan></text>
 <text x="395" y="361" class="t" style="animation-delay:1.98s"><tspan class="key">Work</tspan><tspan class="sep">: </tspan><tspan class="value">Lead Programmer @ Yoby / BajaPoke</tspan></text>
 <text x="395" y="380" class="t" style="animation-delay:2.06s"><tspan class="key">Certs</tspan><tspan class="sep">: </tspan><tspan class="value">CCNA · Linux Essentials · C++</tspan></text>
 <text x="395" y="399" class="t" style="animation-delay:2.14s"><tspan class="key">Locale</tspan><tspan class="sep">: </tspan><tspan class="value">Tijuana, BC · ES (nativo) · EN (B1)</tspan></text>
@@ -74,7 +74,7 @@ text, tspan { white-space: pre; }
 <rect x="551" y="424" width="26" height="16" fill="#39c5cf" class="t" style="animation-delay:2.30s"/>
 <rect x="577" y="424" width="26" height="16" fill="#e6edf3" class="t" style="animation-delay:2.30s"/>
 <text x="20" y="493" class="t" style="animation-delay:2.65s"><tspan class="user">jesus@MacBook-Pro</tspan><tspan class="sep"> </tspan><tspan class="path">~</tspan><tspan class="sep"> % </tspan><tspan class="cmd">ls ~/projects</tspan></text>
-<text x="20" y="517" class="proj t" style="animation-delay:2.87s">NX-Port-Studio  Forma  Royale-Local-ML  Free-RAM-Mac  Image-to-ASCII  Dinamize</text>
+<text x="20" y="517" class="proj t" style="animation-delay:2.87s">Forma  NX-Port-Studio  NX2-Port-Studio  FreeRAMMac  Bluetooth-receptor-onLAN</text>
 <text x="20" y="549" class="t" style="animation-delay:3.14s"><tspan class="user">jesus@MacBook-Pro</tspan><tspan class="sep"> </tspan><tspan class="path">~</tspan><tspan class="sep"> % </tspan></text>
 <rect x="232" y="535" width="10" height="18" fill="#3fb950" class="t cursor" style="animation-delay:3.24s"/>
 </svg>

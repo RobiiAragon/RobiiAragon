@@ -1,5 +1,5 @@
 <a href="https://robiiaragon.github.io/portfolio/">
-  <img alt="Jesús Aragón — terminal de macOS con fastfetch" src="https://raw.githubusercontent.com/RobiiAragon/RobiiAragon/main/profile.svg?v=2">
+  <img alt="Jesús Aragón — terminal de macOS con fastfetch" src="https://raw.githubusercontent.com/RobiiAragon/RobiiAragon/main/profile.svg?v=3">
 </a>
 
 <p align="center">
@@ -17,20 +17,22 @@ Software Engineer e ingeniero en formación en **Entornos Virtuales y Negocios D
 
 | Proyecto | Qué es | Stack |
 | :-- | :-- | :-- |
+| [**Forma**](https://github.com/RobiiAragon/Forma) | Estudio de escaneo 3D local para iPhone, iPad y Mac: LiDAR, fotogrametría y Gaussian Splatting, 100% en el dispositivo. | Swift · ARKit · Metal · Core ML |
 | [**NX Port Studio**](https://github.com/RobiiAragon/NX-Port-Studio) | Workspace de macOS que convierte tus juegos de Switch en apps nativas de Mac / iPhone, con firma Xcode, Joy-Con y juego LAN/LDN. | Python · C · Swift · Xcode |
-| [**Forma**](https://github.com/RobiiAragon/Forma) | Estudio 3D local para iPhone, iPad y Mac: LiDAR, fotogrametría y Gaussian Splatting, todo en el dispositivo. | Swift · Metal · ARKit |
-| [**Free RAM Mac**](https://github.com/RobiiAragon/FreeRAMMac) | App de barra de menús para macOS: uso de RAM a la vista y liberación de memoria descartable en un clic. | Swift · macOS |
-| **Royale Local ML** | Agente de Machine Learning que juega Clash Royale de forma autónoma en tiempo real. | Python · ML |
+| [**NX2 Port Studio**](https://github.com/RobiiAragon/NX2-Port-Studio) | Herramientas nativas experimentales de Switch 2 para Apple silicon (exporta a Mac Donkey Kong Bananza y Splatoon Raiders). | C · Metal · ARM64 |
+| [**Free RAM Mac**](https://github.com/RobiiAragon/FreeRAMMac) | App de barra de menú: uso de RAM de un vistazo y purga de memoria con un clic. | Swift 6 · AppKit |
 | [**Yoby / BajaPoke**](https://yoby-five.vercel.app) | SaaS de vacantes y evaluación de candidatos con IA generativa para una cadena de restaurantes. | TypeScript · React · Supabase |
+| **Royale Local ML** | Agente de Machine Learning que juega Clash Royale de forma autónoma en tiempo real. | Python · ML |
 | [**VR Expo Perfiles 2025**](https://www.facebook.com/share/p/1KMn5MTGzY/) | Experiencia de Realidad Virtual para Universidad Xochicalco. | Unity · C# |
+| [**Bluetooth on LAN**](https://github.com/RobiiAragon/Bluetooth-receptor-onLAN) | Tu Android como control de Xbox virtual para Windows por red local. | Kotlin · .NET 8 |
 
 ### 🛠️ Stack
 
 <p>
-  <img alt="Stack" src="https://skillicons.dev/icons?i=ts,react,python,swift,cs,cpp,dotnet,unity,laravel,php,supabase,java,mysql,git,linux,apple&perline=8">
+  <img alt="Stack" src="https://skillicons.dev/icons?i=ts,react,python,swift,cs,cpp,kotlin,dotnet,unity,laravel,php,supabase,java,mysql,git,linux&perline=8">
 </p>
 
-**IA local:** Ollama · BionicGPT · ComfyUI · NVIDIA CUDA &nbsp;·&nbsp; **Certificaciones:** CCNA Essentials · NDG Linux Essentials · C++ Essentials
+**Apple:** ARKit · RealityKit · Metal · Core ML &nbsp;·&nbsp; **IA local:** Ollama · BionicGPT · ComfyUI · NVIDIA CUDA &nbsp;·&nbsp; **Certificaciones:** CCNA Essentials · NDG Linux Essentials · C++ Essentials
 
 ### 💼 Experiencia
 
