@@ -1,5 +1,5 @@
 <a href="https://robiiaragon.github.io/portfolio/">
-  <img alt="Jesús Aragón — terminal de macOS con neofetch" src="https://raw.githubusercontent.com/RobiiAragon/RobiiAragon/main/profile.svg?v=1">
+  <img alt="Jesús Aragón — terminal de macOS con fastfetch" src="https://raw.githubusercontent.com/RobiiAragon/RobiiAragon/main/profile.svg?v=1">
 </a>
 
 <p align="center">
